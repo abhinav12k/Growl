@@ -17,3 +17,7 @@ An app to help the street animals growling over the roads.It can be used to send
 * Click on clone.
 
 # Screenshots
+![Screenshot_20200316-155252](https://user-images.githubusercontent.com/51455561/76748786-62034b00-67a1-11ea-8373-d1c69558adbc.jpg)
+![Screenshot_20200316-155219](https://user-images.githubusercontent.com/51455561/76748798-66c7ff00-67a1-11ea-9fcf-e7d55b703ee8.jpg)
+![Screenshot_20200316-155155](https://user-images.githubusercontent.com/51455561/76748807-692a5900-67a1-11ea-89b3-3eb03c656943.jpg)
+![Screenshot_20200316-155112](https://user-images.githubusercontent.com/51455561/76748810-69c2ef80-67a1-11ea-88a0-db7abfbb3b87.jpg)
