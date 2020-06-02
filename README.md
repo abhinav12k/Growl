@@ -15,6 +15,7 @@ An app to help the street animals growling over the roads.It can be used to send
 * Choose git / github (git option recommanded )
 * Paste url to repository i.e https://github.com/abhinav78910/Growl.git
 * Click on clone.
+* Make sure to add your google-services.json file
 
 # Screenshots
 ![Screenshot_20200316-155252](https://user-images.githubusercontent.com/51455561/76748786-62034b00-67a1-11ea-8373-d1c69558adbc.jpg)
